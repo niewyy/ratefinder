@@ -64,3 +64,19 @@ p { margin: 0 0 16px; color: var(--muted); font-size: 18px; }
   .nav { align-items: flex-start; flex-direction: column; }
   .nav-links { justify-content: flex-start; }
 }
+
+/* Polished legal/support page layout */
+.page-header {
+  margin: 22px 0 28px;
+}
+.meta {
+  color: var(--muted);
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.simple-list {
+  padding-left: 22px;
+}
+.simple-list li {
+  margin-bottom: 10px;
+}
